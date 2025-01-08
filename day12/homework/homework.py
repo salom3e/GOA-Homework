@@ -18,5 +18,18 @@ float3=2.5
 float4=6.7
 float5=9.6
 
+num1=str(3)
+num2="5"
+num3=7
+num4=21
+num5=26
+
+word1="song"
+word2="14"
+word3="food"
+word4="62"
+word5="movie"
+
+
 
 
