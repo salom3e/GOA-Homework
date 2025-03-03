@@ -1,0 +1,1 @@
+#1) დაწერეთ solo learn List' ამდე
