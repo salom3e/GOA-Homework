@@ -12,6 +12,7 @@ print(num1 // num2 <=num3) #True
 print(num2 ** num3 == num1) #False
 print(num3 % num1 != num2) #True
 
+
 2.
 num1=1121
 num2=1798
@@ -22,6 +23,7 @@ print(num1 >= num2) #False
 print(num2 <=num1) #False
 print(num2 == num1) #False
 print(num1 != num2) #True
+
 
 3.
 num1=9
@@ -35,6 +37,7 @@ print(num3 * num1 <=num2) #False
 print(num2 ** num3 == num1) #False
 print(num1 % num2 != num3) #True
 
+
 4.
 num1=1801
 num2=1108
@@ -45,6 +48,7 @@ print(num1 >= num2) #True
 print(num1 <=num2) #False
 print(num1 == num2) #False
 print(num2 != num1) #True
+
 
 5.
 num1=44

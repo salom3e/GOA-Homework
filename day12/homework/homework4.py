@@ -52,5 +52,3 @@ print(age2 >= age1)
 print(age1 <= age2)
 print(age2 == age1)
 print(age1 != age2)
-
-

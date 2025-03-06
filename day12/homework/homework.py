@@ -29,9 +29,3 @@ word2="14"
 word3="food"
 word4="62"
 word5="movie"
-
-
-
-
-
-

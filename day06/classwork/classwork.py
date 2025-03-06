@@ -40,4 +40,3 @@ print(name)
 full_name = "Zuka K"         
 deff = "Function"           
 userAge2 = 20
-

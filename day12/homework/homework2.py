@@ -7,5 +7,4 @@ print(age2)
 age3=int(input("what's your age? : "))
 print(age3)
 
-
 print((age1+age2+age3) // 3)

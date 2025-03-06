@@ -2,8 +2,3 @@
 
 cars = ["BMW", "Mercedes", "Tesla", "Audi", "Ferarri"] 
 print("Favorite Cars:", cars)
-
-
-
-
-

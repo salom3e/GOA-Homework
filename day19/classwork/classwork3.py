@@ -16,4 +16,3 @@ GOA = 0
 while GOA < 50:
     print("GOA BEST!!!")
     GOA += 1
-

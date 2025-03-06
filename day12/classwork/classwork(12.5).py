@@ -10,5 +10,3 @@ print(num2 >= num1) #True
 print(num1 <=num2) #True
 print(num2 == num1) #False
 print(num1 != num2) #True
-
-

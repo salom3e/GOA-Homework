@@ -67,6 +67,7 @@ forward(50)
 left(90)
 end_fill() #end of the left window
 
+
 #drawing the right window (50x50 square)
 penup()
 goto(30, 0)
