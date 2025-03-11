@@ -1,0 +1,19 @@
+/* დავალება 4: შექმენი სამი აბზაცი, რომელთა სტილი იქნება შემდეგნაირი: პირველი - ზრდილი ზომა და მუქი ტექსტი, მეორე - მაღალი ზომა და 
+მსუბუქი ტექსტი, მესამე - ცენტრირებული ტექსტი. */
+
+.large_bold {
+    font-size: 24px;
+    font-weight: bold;
+    color: rgb(214, 0, 0);
+}
+
+.tall_light {
+    font-size: 28px;
+    font-weight: lighter;
+    color: rgb(255, 90, 170);
+}
+
+.center {
+    text-align: center;
+    color: rgb(127, 0, 0);
+}

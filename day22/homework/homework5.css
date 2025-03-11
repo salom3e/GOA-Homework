@@ -1,0 +1,9 @@
+/* დავალება 6: შექმენი აბზაცი, სადაც ტექსტი იქნება 12px ზომით, მუქი მწვანე ფერის, და ფონდის ფერი ლურჯი. */
+
+p {
+    font-size: 12px;
+    color: darkgreen;
+    background-color: rgb(21, 21, 169);
+    padding: 10px;
+    display: inline-block;
+}

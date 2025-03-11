@@ -1,0 +1,21 @@
+* {
+    font-family: 'sans-serif';
+}
+
+body {
+    background-color: rgb(185, 183, 175);
+}
+
+.main {
+    color: rgb(0, 112, 186);
+    font-size: 80px;
+    font-weight: 300;
+    text-align: center;
+}
+
+p {
+    color: rgb(99, 252, 255);
+    font-weight: 150;
+    text-align: center;
+    font-size: 30px;
+}

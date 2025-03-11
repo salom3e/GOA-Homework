@@ -1,0 +1,22 @@
+/* დავალება 2: შექმენი სია, სადაც პირველი პუნქტი იქნება ლურჯი ფონით და თეთრი ტექსტით, მეორე - მწვანე ტექსტი, მესამე - წითელი ფონით. */
+
+body {
+    background-color: rgb(188, 188, 188);
+}
+
+#first {
+    color: white;
+    background-color: rgb(24, 57, 158);
+}
+
+#second {
+    color: rgb(17, 102, 31);
+}
+
+#third {
+    background-color: rgb(197, 42, 42);
+}
+
+li {
+    list-style: square;
+}
