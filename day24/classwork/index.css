@@ -1,0 +1,20 @@
+body {
+    background-color: #d7cdff;
+    text-align: center;
+}
+
+
+.header {
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+.main {
+    padding: 50px;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+}
